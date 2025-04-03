@@ -14,8 +14,8 @@ Macht die Aufgabe gemeinsam, Schritt für Schritt.
    1. Vergleicht die commits von seinem eigenen Branch und dem main branch
    1. Merged den main "into" euren Branch
    1. Vergleicht erneut die commits von seinem eigenen Branch und dem main branch
-   1. Pusht den gemergeten branch
-   1. Stelle über github einen PullRequest und merged diesen.
+   1. Merge deinen branch in den main
+   1. Push den main branch zu github.
 
 
 7. Person B :
@@ -24,6 +24,6 @@ Macht die Aufgabe gemeinsam, Schritt für Schritt.
    1. Merged den main "into" euren Branch
    1. Ihr solltet jetzt eine "Merge Conflict bekommen", löst ihn mit hilfe von IntelliJ.
    1. Vergleicht erneut die commits von seinem eigenen Branch und dem main branch
-   1. Pusht den gemergeten branch
-   1. Stelle über github einen PullRequest und merged diesen.
+   1. Merge deinen branch in den main branch.
+   1. Pushe den main branch zu github.
    
