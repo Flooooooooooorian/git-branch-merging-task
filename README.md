@@ -26,4 +26,13 @@ Macht die Aufgabe gemeinsam, Schritt für Schritt.
    1. Vergleicht erneut die commits von seinem eigenen Branch und dem main branch
    1. Merge deinen branch in den main branch.
    1. Pushe den main branch zu github.
-   
+
+## Tipps zum Umgang mit Merge-Konflikten
+
+- Nutze die grafische Oberfläche von IntelliJ zum Lösen von Konflikten.
+- Lies die Änderungen sorgfältig durch, bevor du sie übernimmst.
+
+## Teilnehmer
+
+- Person A: Darian
+- Person B: Emrullah
