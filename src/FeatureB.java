@@ -1,6 +1,6 @@
 public class FeatureB {
 
     public static void main(String[] args) {
-        System.out.println("Das ist Feature B von: Andreas Haffner");
+        System.out.println("Das ist Feature B von: <Dein Name>");
     }
 }
